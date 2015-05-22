@@ -1,4 +1,5 @@
 (module L_WE_PD2 (layer F.Cu) (tedit 555DCC3F)
+  (attr smd)
   (fp_text reference L_WE_PD2 (at 0 0) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
